@@ -1,0 +1,60 @@
+
+.parallax1{
+    width: 100%;
+    height: 900px;
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2d0cffb-96b3-48e3-83bb-eb81054ac04a/dekeyxr-a6a1712a-ebfd-4363-a140-266652837b3e.png/v1/fill/w_1192,h_670,q_70,strp/bleach___ichigo_wallpaper__hd__by_dglproductions_dekeyxr-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYzJkMGNmZmItOTZiMy00OGUzLTgzYmItZWI4MTA1NGFjMDRhXC9kZWtleXhyLWE2YTE3MTJhLWViZmQtNDM2My1hMTQwLTI2NjY1MjgzN2IzZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.mPn3Zi3V36yWXW3JpEb7c0TgqX3-N-cGilvDjLnmdcs");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.header1{
+    color: white;
+    padding: 250px;
+}
+.header2{
+    color: white;
+    padding-left: 800px;
+    padding-top: 300px;
+}
+.parallax2{
+    width: 100%;
+    height: 900px;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-image: url("https://w0.peakpx.com/wallpaper/244/386/HD-wallpaper-hollow-ichigo-bleach-gold-eyes-head-white-hair-ichigo-smile-yellow-eyes-ichigo-kurosaki-kurosaki-ichigo-black-bacground-anime-face.jpg");
+}
+
+
+.container{
+    position: absolute;
+    display: inline;
+}
+.container .btn1{
+    display: block;
+  background-color: #f1f1f1;
+  color: black;
+  font-size: 18px;
+  padding: 8px 18px;
+  border-radius: 1rem;
+  cursor: pointer;
+  text-align: center;
+ 
+}
+.container .btn1:hover {
+    background-color: black;
+    color: white;
+}
+.container .btn2{
+    display: block;
+    background-color: #f1f1f1;
+  color: black;
+  font-size: 18px;
+  padding: 8px 18px;
+  border-radius: 1rem;
+  cursor: pointer;
+  text-align: center;
+ 
+}
+.container .btn2:hover {
+    background-color: black;
+    color: white;
+}
